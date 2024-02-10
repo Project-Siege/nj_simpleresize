@@ -13,6 +13,7 @@ import os
 import subprocess
 import sys
 import importlib.util
+import shutil  # Import the shutil module
 from bpy.types import Panel, Operator
 from bpy.props import IntProperty
 
