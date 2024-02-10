@@ -11,9 +11,9 @@ Automatic Output: Automatically generates resized image textures and updates the
 Open Source: Released under an open-source license, allowing for modification and contribution from the community.
 Installation:
 
-Download the nj_simple-resize addon ZIP file from the Releases section.
+Download the nj_simple-resize addon .py file from the Releases section.
 In Blender, go to Edit > Preferences > Add-ons.
-Click "Install..." and select the downloaded ZIP file (nj_simple-resize.zip).
+Click "Install..." and select the downloaded .py file (nj_simple-resize.py).
 Enable the nj_simple-resize addon from the list.
 Usage:
 
