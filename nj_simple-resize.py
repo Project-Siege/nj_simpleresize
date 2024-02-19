@@ -2,7 +2,7 @@ bl_info = {
     "name": "Resize Images",
     "author": "Nomadic Jester",
     "version": (1, 0),
-    "blender": (2, 80, 0),
+    "blender": (4, 0, 0),
     "location": "Properties > Material > Resize Images",
     "description": "Resize images in material nodes",
     "category": "Material",
